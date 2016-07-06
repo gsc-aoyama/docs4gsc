@@ -9,7 +9,7 @@
 
 
 ## ライセンス
-本リポジトリ内に格納されいている資料は、断りのない限りクリエイティブ・コモンズ・ライセンスのCC BY-NC-SA 4.0 を適用します。
+本リポジトリ内に格納されている資料は、断りのない限りクリエイティブ・コモンズ・ライセンスのCC BY-NC-SA 4.0 を適用します。
 
 Copyright © School of Global Studies and Collaboration, Aoyama Gakuin University, CC BY-NC-SA 4.0
 
