@@ -8,3 +8,7 @@
 ![GSC学部パンフレット05](https://github.com/gsc-aoyama/docs4gsc/blob/master/2015/AoyamaGSC_Brochure2015_05.jpg?raw=true)
 ![GSC学部パンフレット06](https://github.com/gsc-aoyama/docs4gsc/blob/master/2015/AoyamaGSC_Brochure2015_06.jpg?raw=true)
 
+
+---
+
+## ライセンス
