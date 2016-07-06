@@ -7,6 +7,8 @@
 ## 留学関連
 - [地球社会共生学部 学部間海外協定校派遣(留学)の継続、中止、途中帰国のガイドライン](https://github.com/gsc-aoyama/docs4gsc/blob/master/study-abroad-guideline-01.pdf)
 
+- [フィールドスタディーガイド](https://github.com/gsc-aoyama/fieldstudy-guide4gsc)
+
 
 ---
 
